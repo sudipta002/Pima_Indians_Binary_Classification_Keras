@@ -3,3 +3,7 @@ Pima Indians onset of diabetes dataset is a standard machine learning dataset av
 
 # Dataset
 Download it from https://www.kaggle.com/uciml/pima-indians-diabetes-database
+
+# Accuracy
+
+accuracy: 76.82%
