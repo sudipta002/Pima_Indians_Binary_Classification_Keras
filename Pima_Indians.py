@@ -16,7 +16,7 @@ model.add(Dense(1, activation='sigmoid'))
 model.compile(loss='binary_crossentropy', optimizer='adam', metrics=['accuracy'])
 # Fit the model
 model.fit(X, Y, epochs=150, batch_size=10)
-# evaluate the model
+# Evaluate the model
 scores = model.evaluate(X, Y)
 
 
